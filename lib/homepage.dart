@@ -39,19 +39,19 @@ class Homepage extends StatelessWidget {
                       Row(
                         children: [
                           Icon(Icons.person),
-                          Text('ID: 0182410012101169'),
+                          Text(' ID: 0182410012101169'),
                         ],
                       ),
                       Row(
                         children: [
                           Icon(Icons.email),
-                          Text('Email: irafiy07@gmail.com'),
+                          Text(' Email: irafiy07@gmail.com'),
                         ],
                       ),
                       Row(
                         children: [
                           Icon(Icons.phone),
-                          Text('Phone: 0123791328'),
+                          Text(' Phone: 0123791328'),
                         ],
                       ),
                     ],
